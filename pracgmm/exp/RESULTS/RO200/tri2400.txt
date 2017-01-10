@@ -1,0 +1,160 @@
+MFC_E_D_A_Z_Init20 decode-xwtri-hmm24 CORETEST
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=76.11, Acc=57.19 [H=5597, D=197, S=1560, I=1391, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-hmm44 CORETEST
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=77.44, Acc=59.27 [H=5695, D=210, S=1449, I=1336, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-hmm64 CORETEST
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=77.62, Acc=59.83 [H=5708, D=216, S=1430, I=1308, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-hmm84 CORETEST
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=78.30, Acc=60.01 [H=5758, D=225, S=1371, I=1345, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-hmm104 CORETEST
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=78.30, Acc=60.33 [H=5758, D=216, S=1380, I=1321, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-hmm124 CORETEST
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=78.83, Acc=60.95 [H=5797, D=206, S=1351, I=1315, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-hmm144 CORETEST
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=78.73, Acc=60.70 [H=5790, D=211, S=1353, I=1326, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-hmm164 CORETEST
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=78.37, Acc=60.63 [H=5763, D=223, S=1368, I=1304, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-hmm184 CORETEST
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=78.28, Acc=60.44 [H=5757, D=217, S=1380, I=1312, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-hmm204 CORETEST
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=78.41, Acc=60.18 [H=5766, D=218, S=1370, I=1340, N=7354]
+===================================================================
+MFC_E_D_A_Z_Flatstart20 decode-xwtri-hmm24 CORETEST
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=76.03, Acc=56.62 [H=5591, D=228, S=1535, I=1427, N=7354]
+===================================================================
+MFC_E_D_A_Z_Flatstart20 decode-xwtri-hmm44 CORETEST
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=78.22, Acc=59.70 [H=5752, D=196, S=1406, I=1362, N=7354]
+===================================================================
+MFC_E_D_A_Z_Flatstart20 decode-xwtri-hmm64 CORETEST
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=78.19, Acc=59.67 [H=5750, D=213, S=1391, I=1362, N=7354]
+===================================================================
+MFC_E_D_A_Z_Flatstart20 decode-xwtri-hmm84 CORETEST
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=78.90, Acc=60.73 [H=5802, D=215, S=1337, I=1336, N=7354]
+===================================================================
+MFC_E_D_A_Z_Flatstart20 decode-xwtri-hmm104 CORETEST
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=78.90, Acc=61.01 [H=5802, D=198, S=1354, I=1315, N=7354]
+===================================================================
+MFC_E_D_A_Z_Flatstart20 decode-xwtri-hmm124 CORETEST
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=78.61, Acc=61.00 [H=5781, D=201, S=1372, I=1295, N=7354]
+===================================================================
+MFC_E_D_A_Z_Flatstart20 decode-xwtri-hmm144 CORETEST
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=78.52, Acc=60.44 [H=5774, D=199, S=1381, I=1329, N=7354]
+===================================================================
+MFC_E_D_A_Z_Flatstart20 decode-xwtri-hmm164 CORETEST
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=78.75, Acc=60.01 [H=5791, D=205, S=1358, I=1378, N=7354]
+===================================================================
+MFC_E_D_A_Z_Flatstart20 decode-xwtri-hmm184 CORETEST
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=78.50, Acc=59.45 [H=5773, D=215, S=1366, I=1401, N=7354]
+===================================================================
+MFC_E_D_A_Z_Flatstart20 decode-xwtri-hmm204 CORETEST
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=78.32, Acc=58.97 [H=5760, D=210, S=1384, I=1423, N=7354]
+===================================================================
+FBK_D_A_Z_Init20 decode-xwtri-hmm24 CORETEST
+SENT: %Correct=0.00 [H=0, S=191, N=191]
+WORD: %Corr=70.19, Acc=43.79 [H=5137, D=254, S=1928, I=1932, N=7319]
+===================================================================
+FBK_D_A_Z_Init20 decode-xwtri-hmm44 CORETEST
+SENT: %Correct=0.00 [H=0, S=188, N=188]
+WORD: %Corr=72.32, Acc=47.35 [H=5221, D=235, S=1763, I=1803, N=7219]
+===================================================================
+FBK_D_A_Z_Init20 decode-xwtri-hmm64 CORETEST
+SENT: %Correct=0.00 [H=0, S=190, N=190]
+WORD: %Corr=73.23, Acc=48.48 [H=5332, D=236, S=1713, I=1802, N=7281]
+===================================================================
+FBK_D_A_Z_Init20 decode-xwtri-hmm84 CORETEST
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.77, Acc=49.58 [H=5425, D=224, S=1705, I=1779, N=7354]
+===================================================================
+FBK_D_A_Z_Init20 decode-xwtri-hmm104 CORETEST
+SENT: %Correct=0.00 [H=0, S=191, N=191]
+WORD: %Corr=74.41, Acc=50.57 [H=5444, D=198, S=1674, I=1744, N=7316]
+===================================================================
+FBK_D_A_Z_Init20 decode-xwtri-hmm124 CORETEST
+SENT: %Correct=0.00 [H=0, S=191, N=191]
+WORD: %Corr=74.56, Acc=50.60 [H=5465, D=206, S=1659, I=1756, N=7330]
+===================================================================
+FBK_D_A_Z_Init20 decode-xwtri-hmm144 CORETEST
+SENT: %Correct=0.00 [H=0, S=190, N=190]
+WORD: %Corr=75.11, Acc=51.32 [H=5479, D=188, S=1628, I=1735, N=7295]
+===================================================================
+FBK_D_A_Z_Init20 decode-xwtri-hmm164 CORETEST
+SENT: %Correct=0.00 [H=0, S=190, N=190]
+WORD: %Corr=75.11, Acc=51.30 [H=5479, D=192, S=1624, I=1737, N=7295]
+===================================================================
+FBK_D_A_Z_Init20 decode-xwtri-hmm184 CORETEST
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.95, Acc=51.12 [H=5512, D=208, S=1634, I=1753, N=7354]
+===================================================================
+FBK_D_A_Z_Init20 decode-xwtri-hmm204 CORETEST
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.21, Acc=51.60 [H=5531, D=207, S=1616, I=1736, N=7354]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-xwtri-hmm24 CORETEST
+SENT: %Correct=0.00 [H=0, S=191, N=191]
+WORD: %Corr=69.85, Acc=42.97 [H=5112, D=241, S=1966, I=1967, N=7319]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-xwtri-hmm44 CORETEST
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=72.61, Acc=47.21 [H=5340, D=204, S=1810, I=1868, N=7354]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-xwtri-hmm64 CORETEST
+SENT: %Correct=0.00 [H=0, S=191, N=191]
+WORD: %Corr=73.64, Acc=48.98 [H=5392, D=197, S=1733, I=1806, N=7322]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-xwtri-hmm84 CORETEST
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.79, Acc=50.80 [H=5500, D=190, S=1664, I=1764, N=7354]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-xwtri-hmm104 CORETEST
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.22, Acc=51.77 [H=5532, D=190, S=1632, I=1725, N=7354]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-xwtri-hmm124 CORETEST
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.43, Acc=52.28 [H=5547, D=186, S=1621, I=1702, N=7354]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-xwtri-hmm144 CORETEST
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.69, Acc=52.38 [H=5566, D=195, S=1593, I=1714, N=7354]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-xwtri-hmm164 CORETEST
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.58, Acc=52.62 [H=5558, D=182, S=1614, I=1688, N=7354]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-xwtri-hmm184 CORETEST
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.90, Acc=52.87 [H=5582, D=194, S=1578, I=1694, N=7354]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-xwtri-hmm204 CORETEST
+SENT: %Correct=0.00 [H=0, S=191, N=191]
+WORD: %Corr=76.02, Acc=53.42 [H=5563, D=179, S=1576, I=1654, N=7318]
+===================================================================

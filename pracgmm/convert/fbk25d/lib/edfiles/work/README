@@ -1,0 +1,3 @@
+python lib/edfiles/work/GenMakeTri.py lib/mlists/mono+sil.mlist lib/edfiles/make_xwtri.led
+python lib/edfiles/work/GenTI.py lib/mlists/mono+sil.mlist lib/edfiles/tie_alltrans.hed 
+

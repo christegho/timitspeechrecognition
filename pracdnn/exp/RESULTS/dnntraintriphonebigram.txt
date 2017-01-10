@@ -1,0 +1,1344 @@
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.89, Acc=77.26 [H=36803, D=3768, S=4924, I=1652, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=80.67, Acc=76.62 [H=36702, D=3652, S=5141, I=1846, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=81.87, Acc=78.42 [H=37246, D=3684, S=4565, I=1568, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=83.72, Acc=80.53 [H=38087, D=3442, S=3966, I=1449, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 0
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 0
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 0
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 1
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 1
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 1
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 2
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 2
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 2
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 3
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 3
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 3
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 4
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 4
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 4
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 5
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 5
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 5
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 6
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 6
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 6
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 7
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 7
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 7
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 8
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 8
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 8
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 9
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 9
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 9
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 10
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 10
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 10
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 11
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 11
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 11
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 12
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 12
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 12
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 13
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 13
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 13
+SENT: %Correct=0.09 [H=1, S=1167, N=1168]
+WORD: %Corr=80.42, Acc=76.60 [H=36588, D=3846, S=5061, I=1741, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.01, Acc=78.25 [H=37311, D=3526, S=4658, I=1710, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD 0 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -4 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=82.36, Acc=79.15 [H=37469, D=3660, S=4366, I=1460, N=45495]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -SUBTRAIN -INSWORD -8 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=84.01, Acc=80.80 [H=38220, D=3380, S=3895, I=1460, N=45495]
+===================================================================

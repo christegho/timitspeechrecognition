@@ -1,0 +1,184 @@
+#!/bin/bash 
+#DONE
+../tools/steps/step-mono -FLATSTART -NUMMIXES 20  ../convert/fbk25d/env/environment_Z \ FBK_Z_Flatstart20/mono
+../tools/steps/step-mono -NUMMIXES 20  ../convert/fbk25d/env/environment_Z \ FBK_Z_Init20/mono
+
+
+#Training with filter bank with different env / parametisations
+for deltaparam in _E_D_Z _E_D_A_Z _E_Z
+do
+../tools/steps/step-mono -FLATSTART -NUMMIXES 20  ../convert/mfc13d/env/environment${deltaparam} \ MFC${deltaparam}_Flatstart20/mono
+../tools/steps/step-mono -NUMMIXES 20  ../convert/mfc13d/env/environment${deltaparam} \ MFC${deltaparam}_Init20/mono
+done
+#Training with MFCC with different env / parametisations
+for deltaparam in _D_Z _D_A_Z 
+do
+../tools/steps/step-mono -FLATSTART -NUMMIXES 20  ../convert/fbk25d/env/environment${deltaparam} \ FBK${deltaparam}_Flatstart20/mono
+../tools/steps/step-mono -NUMMIXES 20  ../convert/fbk25d/env/environment${deltaparam} \ FBK${deltaparam}_Init20/mono
+done
+
+#Decoding without options DONE
+do 
+for file in FBK_Z_Init20 FBK_D_Z_Init20 FBK_D_A_Z_Init20 FBK_D_A_Z_Flatstart20 FBK_D_Z_Flatstart20 MFC_E_Z_Init20 MFC_E_D_Z_Init20 MFC_E_D_A_Z_Init20 MFC_E_D_A_Z_Flatstart20 MFC_E_D_Z_Flatstart20 MFC_E_Z_Flatstart20
+	do
+	for i in $(seq 2 2 20)
+	do
+	echo $file $filename
+	hmm=hmm${i}4
+	filename=decode-mono-$hmm
+	../tools/steps/step-decode $PWD/$file/mono $hmm $file/NOOPTIONS/$filename
+	echo $file $filename no option >>text.txt
+	grep -A2 -P 'SENT' $file/NOOPTIONS/$filename/test/LOG >>text.txt
+	done
+done
+
+#Decoding without options - DONE - Missing:Pruning with BEAMWIDTH
+for option in  CORETEST SUBTRAIN
+  do 
+    for file in FBK_Z_Init20 FBK_D_Z_Init20 FBK_D_A_Z_Init20 FBK_D_A_Z_Flatstart20 FBK_D_Z_Flatstart20 FBK_Z_Flatstart20 MFC_E_Z_Init20 MFC_E_D_Z_Init20 MFC_E_D_A_Z_Init20 MFC_E_D_A_Z_Flatstart20 MFC_E_D_Z_Flatstart20 MFC_E_Z_Flatstart20
+    do
+      for i in $(seq 2 2 20)
+	do
+        hmm=hmm${i}4
+        filename=decode-mono-$hmm 
+            ../tools/steps/step-decode -$option $PWD/$file/mono $hmm $file/$option/$filename
+            echo $file $filename -$option 
+            echo $file $filename -$option >>text.txt
+	    grep -A2 -P 'SENT' $file/$option/$filename/test/LOG >>text.txt
+	done 
+     done 
+done
+	
+
+#Decoding without options - Missing:Pruning with BEAMWIDTH
+for option in GRAMMARSCALE INSWORD
+  do 
+    for file in FBK_Z_Init20 FBK_D_Z_Init20 FBK_D_A_Z_Init20 FBK_D_A_Z_Flatstart20 FBK_D_Z_Flatstart20 FBK_Z_Flatstart20 MFC_E_Z_Init20 MFC_E_D_Z_Init20 MFC_E_D_A_Z_Init20 MFC_E_D_A_Z_Flatstart20 MFC_E_D_Z_Flatstart20 MFC_E_Z_Flatstart20
+    do
+      for i in $(seq 1 2 20)
+	do
+        hmm=hmm${i}4
+        filename=decode-mono-$hmm
+       
+          for optvalue in $(seq 0 1 13)
+          do
+            ../tools/steps/step-decode -$option $optvalue $PWD/$file/mono $hmm $file/${option}${optvalue}/$filename
+	    echo $file $filename -$option 
+            echo $file $filename -$option $optvalue >>text.txt
+            grep -A2 -P 'SENT' $file/${option}${optvalue}/$filename/test/LOG >>text.txt
+          done
+   
+	done 
+     done 
+done
+
+
+#Triphone generate with different TBVAL
+../tools/steps/step-xwtri -NUMMIXES 20 -ROVAL 100 -TBVAL 5000 \ $PWD/MFC_E_D_A_Z_Flatstart20/mono hmm14 MFC_E_D_A_Z_Flatstart20/xwtri/RO100/TB4000
+
+../tools/steps/step-xwtri -NUMMIXES 20 -ROVAL 100 -TBVAL 5000 \ $PWD/MFC_E_D_A_Z_Init20/mono hmm14 MFC_E_D_A_Z_Init20/xwtri/RO100/TB5000
+
+../tools/steps/step-xwtri -NUMMIXES 20 -ROVAL 100 -TBVAL 5000 \ $PWD/FBK_D_A_Z_Flatstart20/mono hmm14 FBK_D_A_Z_Flatstart20/xwtri/RO100/TB5000
+
+../tools/steps/step-xwtri -NUMMIXES 20 -ROVAL 100 -TBVAL 5000 \ $PWD/FBK_D_A_Z_Init20/mono hmm14 FBK_D_A_Z_Init20/xwtri/RO100/TB5000
+
+grep -Po  'Mean Occupation Count = \K[^ ]+' MFC_E_D_Z_Flatstart20/TB800/xwtri/hmm160/LOG >>tri.txt
+grep -Po  'to \K[^ ]+' MFC_E_D_Z_Flatstart20/TB800/xwtri/hmm160/LOG
+
+#Triphone Generate then test then change RO then retest
+for i in  400 600 1000 800 1400 
+do
+../tools/steps/step-xwtri -NUMMIXES 20 -ROVAL 200 -TBVAL i \ $PWD/MFC_E_D_A_Z_Flatstart20/mono hmm14 MFC_E_D_A_Z_Flatstart20/xwtri/TB$i
+../tools/steps/step-xwtri -NUMMIXES 20 -ROVAL 200 -TBVAL i \ $PWD/MFC_E_D_A_Z_Init20/mono hmm14 MFC_E_D_A_Z_Init20/xwtri/TB$i
+
+../tools/steps/step-xwtri -NUMMIXES 20 -ROVAL 200 -TBVAL i \ $PWD/FBK_D_A_Z_Flatstart20/mono hmm14 FBK_D_A_Z_Flatstart20/xwtri/TB$i
+../tools/steps/step-xwtri -NUMMIXES 20 -ROVAL 200 -TBVAL i \ $PWD/FBK_D_A_Z_Init20/mono hmm14 FBK_D_A_Z_Init20/xwtri/TB$i
+done
+
+
+#Decoding TRIPHONES without options 
+cd MLSALT2/pracgmm/exp
+for file in MFC_E_D_A_Z_Init20 MFC_E_D_A_Z_Flatstart20 FBK_D_A_Z_Init20 FBK_D_A_Z_Flatstart20
+	do
+	for tb in 5000 
+	do
+	for i in $(seq 2 2 20)
+	do
+
+	hmm=hmm${i}4
+	filename=decode-xwtri-$hmm
+	echo $file $filename $tb
+	../tools/steps/step-decode -CORETEST $PWD/$file/xwtri/RO100/TB$tb $hmm $file/xwtri/RO100/TB$tb/CORETEST/$filename
+	echo $file $filename $tb $100 CORETEST >>tri${tb}.txt
+	grep -A2 -P 'SENT' $file/xwtri/RO100/TB$tb/CORETEST/$filename/test/LOG >>tri${tb}.txt
+	
+done
+done
+done
+
+#Decoding TRIPHONES with GRAMMARSCALE
+cd MLSALT2/pracgmm/exp
+for file in MFC_E_D_A_Z_Init20 MFC_E_D_A_Z_Flatstart20 FBK_D_A_Z_Init20 FBK_D_A_Z_Flatstart20
+	do
+	for tb in 4000 
+	do
+	for i in $(seq 6 2 20)
+	do
+	for optvalue in $(seq 0 1 13)
+        do
+	hmm=hmm${i}4
+	filename=decode-xwtri-$hmm
+	echo $file $filename $tb -GRAMMARSCALE ${optvalue} 
+	../tools/steps/step-decode -CORETEST -GRAMMARSCALE ${optvalue} $PWD/$file/xwtri/RO100/TB$tb $hmm $file/xwtri/RO100/TB$tb/GRAMMARSCALE${optvalue}/$filename
+	echo $file $filename $tb $100 -GRAMMARSCALE ${optvalue} >>tri${tb}.txt
+	grep -A2 -P 'SENT' $file/xwtri/RO100/TB$tb/GRAMMARSCALE${optvalue}/$filename/test/LOG >>tri${tb}.txt
+	
+done
+done
+done
+done
+
+
+#FOR DEBUGGING ONLY	
+for option in GRAMMARSCALE
+  do 
+    for file in  FBK_D_A_Z_Init20 FBK_D_A_Z_Flatstart20   MFC_E_D_A_Z_Init20 MFC_E_D_A_Z_Flatstart20 
+    do
+      for i in $(seq 2 2 20)
+	do
+        hmm=hmm${i}4
+        filename=decode-mono-$hmm
+       
+          for optvalue in $(seq 0 1 13)
+          do
+            ../tools/steps/step-decode -$option $optvalue $PWD/$file/mono $hmm $file/${option}${optvalue}/$filename
+	    echo $file $filename -$option 
+            echo $file $filename -$option $optvalue >>grammarscaleresults.txt
+            grep -A2 -P 'SENT' $file/${option}${optvalue}/$filename/test/LOG >>grammarscaleresults.txt
+          done
+   
+	done 
+     done 
+done
+
+
+#FOR DEBUGGING ONLY	
+for file in MFC_E_D_A_Z_Init20 
+	do
+	for tb in 5000 
+	do
+	for i in $(seq 6 2 6)
+	do
+	for optvalue in $(seq 0 1 0)
+        do
+	hmm=hmm${i}4
+	filename=decode-xwtritest-$hmm
+	echo $file $filename $tb -GRAMMARSCALE ${optvalue} 
+	../toolscp/step-decode  -DECODEHTE ../pracblm/HTE.bigram -CORETEST -GRAMMARSCALE ${optvalue} $PWD/$file/xwtri/RO100/TB$tb $hmm $file/xwtri/RO100/TB$tb/GRAMMARSCALE${optvalue}/$filename
+	echo $file $filename $tb $100 -GRAMMARSCALE ${optvalue} >>tritest.txt
+	grep -A2 -P 'SENT' $file/xwtri/RO100/TB$tb/GRAMMARSCALE${optvalue}/$filename/test/LOG >>tritest.txt
+	
+done
+done
+done
+done

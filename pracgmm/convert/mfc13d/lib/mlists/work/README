@@ -1,0 +1,3 @@
+cat lib/mlabs/work/train.phn.lst | awk '{print $1}' | sort > lib/mlists/mono+sil.mlist
+python lib/mlists/work/GenCDlist.py lib/mlists/mono+sil.mlist lib/mlists/xwtri+sil.mlist 
+

@@ -1,0 +1,504 @@
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 0 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=70.13, Acc=56.11 [H=5157, D=589, S=1608, I=1031, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 0 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=68.86, Acc=59.26 [H=5064, D=699, S=1591, I=706, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 0 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=67.73, Acc=61.50 [H=4981, D=808, S=1565, I=458, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 1 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=70.89, Acc=61.29 [H=5213, D=596, S=1545, I=706, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 1 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=68.90, Acc=62.44 [H=5067, D=763, S=1524, I=475, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 1 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=67.80, Acc=62.97 [H=4986, D=874, S=1494, I=355, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 2 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=71.82, Acc=64.67 [H=5282, D=559, S=1513, I=526, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 2 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=70.22, Acc=64.89 [H=5164, D=716, S=1474, I=392, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 2 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=68.57, Acc=64.56 [H=5043, D=884, S=1427, I=295, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 3 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=72.37, Acc=66.39 [H=5322, D=576, S=1456, I=440, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 3 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=71.02, Acc=66.47 [H=5223, D=722, S=1409, I=335, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 3 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=69.81, Acc=66.39 [H=5134, D=842, S=1378, I=252, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 4 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=72.19, Acc=67.12 [H=5309, D=622, S=1423, I=373, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 4 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=71.05, Acc=67.34 [H=5225, D=740, S=1389, I=273, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 4 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=69.77, Acc=66.77 [H=5131, D=875, S=1348, I=221, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 5 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=72.14, Acc=67.65 [H=5305, D=653, S=1396, I=330, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 5 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=70.98, Acc=67.62 [H=5220, D=775, S=1359, I=247, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 5 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=69.62, Acc=66.89 [H=5120, D=903, S=1331, I=201, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 6 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=71.55, Acc=67.66 [H=5262, D=709, S=1383, I=286, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 6 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=70.48, Acc=67.42 [H=5183, D=817, S=1354, I=225, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 6 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=69.04, Acc=66.62 [H=5077, D=931, S=1346, I=178, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 7 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=71.01, Acc=67.58 [H=5222, D=756, S=1376, I=252, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 7 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=70.02, Acc=67.27 [H=5149, D=846, S=1359, I=202, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 7 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=68.64, Acc=66.60 [H=5048, D=958, S=1348, I=150, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 8 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=70.30, Acc=67.16 [H=5170, D=795, S=1389, I=231, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 8 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=69.46, Acc=67.00 [H=5108, D=894, S=1352, I=181, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 8 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=68.11, Acc=66.10 [H=5009, D=1004, S=1341, I=148, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 9 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=69.73, Acc=66.90 [H=5128, D=833, S=1393, I=208, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 9 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=68.79, Acc=66.52 [H=5059, D=943, S=1352, I=167, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 9 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=67.53, Acc=65.65 [H=4966, D=1046, S=1342, I=138, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 10 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=69.19, Acc=66.59 [H=5088, D=882, S=1384, I=191, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 10 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=68.07, Acc=65.90 [H=5006, D=985, S=1363, I=160, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 10 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=190, N=190]
+WORD: %Corr=66.89, Acc=65.15 [H=4865, D=1086, S=1322, I=127, N=7273]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 11 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=68.44, Acc=65.99 [H=5033, D=924, S=1397, I=180, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 11 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=191, N=191]
+WORD: %Corr=67.31, Acc=65.37 [H=4919, D=1024, S=1365, I=142, N=7308]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 11 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=189, N=189]
+WORD: %Corr=66.14, Acc=64.53 [H=4800, D=1128, S=1329, I=117, N=7257]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 12 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=191, N=191]
+WORD: %Corr=67.88, Acc=65.63 [H=4961, D=964, S=1383, I=165, N=7308]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 12 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=190, N=190]
+WORD: %Corr=66.63, Acc=64.80 [H=4846, D=1072, S=1355, I=133, N=7273]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 12 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=187, N=187]
+WORD: %Corr=65.63, Acc=64.09 [H=4723, D=1166, S=1307, I=111, N=7196]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 13 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=190, N=190]
+WORD: %Corr=67.11, Acc=64.87 [H=4881, D=1013, S=1379, I=163, N=7273]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 13 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=189, N=189]
+WORD: %Corr=66.02, Acc=64.23 [H=4791, D=1130, S=1336, I=130, N=7257]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 13 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=185, N=185]
+WORD: %Corr=64.59, Acc=63.08 [H=4616, D=1231, S=1300, I=108, N=7147]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 0 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=70.94, Acc=57.38 [H=5217, D=558, S=1579, I=997, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 0 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=69.83, Acc=60.63 [H=5135, D=675, S=1544, I=676, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 0 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=69.02, Acc=62.54 [H=5076, D=770, S=1508, I=477, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 1 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=72.04, Acc=62.48 [H=5298, D=568, S=1488, I=703, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 1 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=70.51, Acc=63.99 [H=5185, D=719, S=1450, I=479, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 1 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=69.47, Acc=65.03 [H=5109, D=853, S=1392, I=327, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 2 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.40, Acc=66.06 [H=5398, D=530, S=1426, I=540, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 2 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=72.07, Acc=67.11 [H=5300, D=663, S=1391, I=365, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 2 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=70.06, Acc=66.43 [H=5152, D=840, S=1362, I=267, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 3 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.63, Acc=67.94 [H=5415, D=558, S=1381, I=419, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 3 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=72.11, Acc=68.13 [H=5303, D=694, S=1357, I=293, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 3 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=71.04, Acc=67.96 [H=5224, D=796, S=1334, I=226, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 4 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=69.16 [H=5418, D=575, S=1361, I=332, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 4 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=72.36, Acc=68.89 [H=5321, D=700, S=1333, I=255, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 4 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=70.83, Acc=68.26 [H=5209, D=825, S=1320, I=189, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 5 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.44, Acc=69.42 [H=5401, D=606, S=1347, I=296, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 5 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=72.10, Acc=69.15 [H=5302, D=721, S=1331, I=217, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 5 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=70.68, Acc=68.25 [H=5198, D=848, S=1308, I=179, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 6 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.16, Acc=69.58 [H=5380, D=641, S=1333, I=263, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 6 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=72.02, Acc=69.21 [H=5296, D=745, S=1313, I=206, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 6 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=70.53, Acc=68.33 [H=5187, D=861, S=1306, I=162, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 7 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=72.44, Acc=69.32 [H=5327, D=677, S=1350, I=229, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 7 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=71.25, Acc=68.78 [H=5240, D=790, S=1324, I=182, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 7 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=70.17, Acc=68.18 [H=5160, D=896, S=1298, I=146, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 8 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=71.68, Acc=68.89 [H=5271, D=723, S=1360, I=205, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 8 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=71.00, Acc=68.68 [H=5221, D=817, S=1316, I=170, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 8 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=69.32, Acc=67.47 [H=5098, D=955, S=1301, I=136, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 9 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=71.20, Acc=68.62 [H=5236, D=773, S=1345, I=190, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 9 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=70.37, Acc=68.25 [H=5175, D=865, S=1314, I=156, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 9 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=68.72, Acc=67.01 [H=5054, D=1008, S=1292, I=126, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 10 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=70.60, Acc=68.13 [H=5192, D=814, S=1348, I=182, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 10 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=69.40, Acc=67.43 [H=5104, D=934, S=1316, I=145, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 10 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=190, N=190]
+WORD: %Corr=68.18, Acc=66.56 [H=4959, D=1041, S=1273, I=118, N=7273]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 11 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=69.80, Acc=67.46 [H=5133, D=870, S=1351, I=172, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 11 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=190, N=190]
+WORD: %Corr=68.66, Acc=66.78 [H=4994, D=989, S=1290, I=137, N=7273]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 11 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=189, N=189]
+WORD: %Corr=67.62, Acc=66.11 [H=4902, D=1087, S=1260, I=110, N=7249]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 12 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=189, N=189]
+WORD: %Corr=69.13, Acc=66.86 [H=5011, D=928, S=1310, I=164, N=7249]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 12 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=189, N=189]
+WORD: %Corr=68.05, Acc=66.23 [H=4933, D=1031, S=1285, I=132, N=7249]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 12 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=187, N=187]
+WORD: %Corr=66.90, Acc=65.47 [H=4814, D=1128, S=1254, I=103, N=7196]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 13 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=189, N=189]
+WORD: %Corr=68.49, Acc=66.33 [H=4965, D=972, S=1312, I=157, N=7249]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 13 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=188, N=188]
+WORD: %Corr=67.37, Acc=65.63 [H=4859, D=1073, S=1280, I=126, N=7212]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm164 -TB 5000 -GRAMMARSCALE 13 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=186, N=186]
+WORD: %Corr=66.39, Acc=64.99 [H=4762, D=1166, S=1245, I=100, N=7173]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 0 -SUBTRAIN -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=73.00, Acc=59.40 [H=33212, D=3348, S=8935, I=6186, N=45495]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 0 -SUBTRAIN -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=71.96, Acc=62.48 [H=32738, D=4028, S=8729, I=4312, N=45495]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 0 -SUBTRAIN -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=70.87, Acc=64.29 [H=32242, D=4727, S=8526, I=2994, N=45495]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 1 -SUBTRAIN -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=73.90, Acc=64.21 [H=33620, D=3446, S=8429, I=4406, N=45495]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 1 -SUBTRAIN -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=72.14, Acc=65.43 [H=32820, D=4411, S=8264, I=3052, N=45495]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 1 -SUBTRAIN -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=70.96, Acc=66.09 [H=32281, D=5152, S=8062, I=2212, N=45495]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 2 -SUBTRAIN -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=75.25, Acc=67.70 [H=34233, D=3216, S=8046, I=3435, N=45495]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 2 -SUBTRAIN -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=73.67, Acc=68.24 [H=33517, D=4079, S=7899, I=2473, N=45495]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 2 -SUBTRAIN -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=71.92, Acc=67.97 [H=32722, D=5019, S=7754, I=1801, N=45495]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 3 -SUBTRAIN -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=75.44, Acc=69.46 [H=34320, D=3328, S=7847, I=2718, N=45495]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 3 -SUBTRAIN -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=73.97, Acc=69.52 [H=33652, D=4138, S=7705, I=2023, N=45495]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 3 -SUBTRAIN -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=72.68, Acc=69.27 [H=33066, D=4838, S=7591, I=1551, N=45495]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 4 -SUBTRAIN -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=75.33, Acc=70.38 [H=34273, D=3489, S=7733, I=2253, N=45495]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 4 -SUBTRAIN -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=74.01, Acc=70.16 [H=33673, D=4234, S=7588, I=1755, N=45495]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 4 -SUBTRAIN -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=72.55, Acc=69.58 [H=33008, D=5024, S=7463, I=1351, N=45495]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 5 -SUBTRAIN -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=75.04, Acc=70.70 [H=34138, D=3702, S=7655, I=1971, N=45495]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 5 -SUBTRAIN -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=73.80, Acc=70.45 [H=33574, D=4376, S=7545, I=1521, N=45495]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 5 -SUBTRAIN -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=72.41, Acc=69.75 [H=32941, D=5172, S=7382, I=1208, N=45495]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 6 -SUBTRAIN -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=74.57, Acc=70.79 [H=33924, D=3950, S=7621, I=1720, N=45495]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 6 -SUBTRAIN -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=73.39, Acc=70.38 [H=33387, D=4613, S=7495, I=1367, N=45495]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 6 -SUBTRAIN -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=1165, N=1165]
+WORD: %Corr=72.05, Acc=69.58 [H=32701, D=5338, S=7349, I=1121, N=45388]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 7 -SUBTRAIN -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1168, N=1168]
+WORD: %Corr=74.09, Acc=70.64 [H=33708, D=4217, S=7570, I=1571, N=45495]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 7 -SUBTRAIN -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=1166, N=1166]
+WORD: %Corr=72.97, Acc=70.20 [H=33155, D=4851, S=7429, I=1260, N=45435]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 7 -SUBTRAIN -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=1165, N=1165]
+WORD: %Corr=71.60, Acc=69.33 [H=32498, D=5587, S=7303, I=1030, N=45388]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 8 -SUBTRAIN -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1166, N=1166]
+WORD: %Corr=73.39, Acc=70.24 [H=33347, D=4465, S=7623, I=1433, N=45435]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 8 -SUBTRAIN -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=1165, N=1165]
+WORD: %Corr=72.25, Acc=69.66 [H=32792, D=5109, S=7487, I=1174, N=45388]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 8 -SUBTRAIN -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=1163, N=1163]
+WORD: %Corr=71.07, Acc=68.95 [H=32190, D=5818, S=7284, I=960, N=45292]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 9 -SUBTRAIN -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1165, N=1165]
+WORD: %Corr=72.60, Acc=69.66 [H=32953, D=4783, S=7652, I=1335, N=45388]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 9 -SUBTRAIN -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=1163, N=1163]
+WORD: %Corr=71.66, Acc=69.25 [H=32456, D=5378, S=7458, I=1091, N=45292]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 9 -SUBTRAIN -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=1161, N=1161]
+WORD: %Corr=70.44, Acc=68.44 [H=31834, D=6063, S=7296, I=906, N=45193]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 10 -SUBTRAIN -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1163, N=1163]
+WORD: %Corr=71.91, Acc=69.20 [H=32570, D=5067, S=7655, I=1226, N=45292]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 10 -SUBTRAIN -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=1163, N=1163]
+WORD: %Corr=70.93, Acc=68.75 [H=32124, D=5670, S=7498, I=988, N=45292]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 10 -SUBTRAIN -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=1158, N=1158]
+WORD: %Corr=69.66, Acc=67.82 [H=31343, D=6339, S=7313, I=829, N=44995]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 11 -SUBTRAIN -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1163, N=1163]
+WORD: %Corr=71.23, Acc=68.70 [H=32262, D=5342, S=7688, I=1146, N=45292]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 11 -SUBTRAIN -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=1160, N=1160]
+WORD: %Corr=70.16, Acc=68.05 [H=31661, D=5961, S=7507, I=949, N=45129]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 11 -SUBTRAIN -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=1155, N=1155]
+WORD: %Corr=68.97, Acc=67.21 [H=30970, D=6619, S=7313, I=790, N=44902]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 12 -SUBTRAIN -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1162, N=1162]
+WORD: %Corr=70.25, Acc=67.90 [H=31776, D=5733, S=7722, I=1062, N=45231]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 12 -SUBTRAIN -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=1156, N=1156]
+WORD: %Corr=69.35, Acc=67.37 [H=31189, D=6288, S=7494, I=891, N=44971]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 12 -SUBTRAIN -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=1150, N=1150]
+WORD: %Corr=68.19, Acc=66.53 [H=30477, D=6909, S=7308, I=740, N=44694]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 13 -SUBTRAIN -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1158, N=1158]
+WORD: %Corr=69.48, Acc=67.24 [H=31313, D=6015, S=7742, I=1006, N=45070]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 13 -SUBTRAIN -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=1152, N=1152]
+WORD: %Corr=68.42, Acc=66.49 [H=30648, D=6606, S=7538, I=865, N=44792]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 13 -SUBTRAIN -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=1147, N=1147]
+WORD: %Corr=67.31, Acc=65.68 [H=30000, D=7191, S=7381, I=723, N=44572]
+===================================================================

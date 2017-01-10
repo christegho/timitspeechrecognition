@@ -1,0 +1,2 @@
+python lib/dicts/work/GenDictFromList.py lib/mlists/mono+sil.mlist lib/dicts/phone.dct
+

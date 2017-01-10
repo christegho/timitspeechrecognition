@@ -1,0 +1,72 @@
+hmm164 MFC_E_D_A_Z_Init20
+Epoch 11 ******************************
+	Processing training set...
+		Train Accuracy = 69.60% [743110 right out of 1067753 samples]
+		Batch count = 1335, Update count = 1335
+		Learning rate = 1.250000e-04
+	Processing validation set...
+		Validation Accuracy = 61.65% [35186 right out of 57070 samples]
+		Batch count = 192
+hmm164 FBK_D_A_Z_Init20
+Epoch 12 ******************************
+	Processing training set...
+		Train Accuracy = 67.28% [718364 right out of 1067753 samples]
+		Batch count = 1335, Update count = 1335
+		Learning rate = 1.250000e-04
+	Processing validation set...
+		Validation Accuracy = 58.02% [33113 right out of 57070 samples]
+		Batch count = 192
+hmm164 FBK_D_A_Z_Flatstart20
+Epoch 11 ******************************
+	Processing training set...
+		Train Accuracy = 66.17% [706506 right out of 1067753 samples]
+		Batch count = 1335, Update count = 1335
+		Learning rate = 1.250000e-04
+	Processing validation set...
+		Validation Accuracy = 57.68% [32916 right out of 57070 samples]
+		Batch count = 192
+hmm164 MFC_E_D_A_Z_Flatstart20
+Epoch 12 ******************************
+	Processing training set...
+		Train Accuracy = 71.11% [759257 right out of 1067753 samples]
+		Batch count = 1335, Update count = 1335
+		Learning rate = 1.250000e-04
+	Processing validation set...
+		Validation Accuracy = 61.55% [35126 right out of 57070 samples]
+		Batch count = 192
+hmm84 MFC_E_D_A_Z_Init20
+Epoch 12 ******************************
+	Processing training set...
+		Train Accuracy = 70.18% [749333 right out of 1067753 samples]
+		Batch count = 1335, Update count = 1335
+		Learning rate = 6.250000e-05
+	Processing validation set...
+		Validation Accuracy = 62.20% [35495 right out of 57070 samples]
+		Batch count = 192
+hmm84 FBK_D_A_Z_Init20
+Epoch 12 ******************************
+	Processing training set...
+		Train Accuracy = 69.26% [739555 right out of 1067753 samples]
+		Batch count = 1335, Update count = 1335
+		Learning rate = 1.250000e-04
+	Processing validation set...
+		Validation Accuracy = 61.05% [34841 right out of 57070 samples]
+		Batch count = 192
+hmm84 FBK_D_A_Z_Flatstart20
+Epoch 12 ******************************
+	Processing training set...
+		Train Accuracy = 69.22% [739048 right out of 1067753 samples]
+		Batch count = 1335, Update count = 1335
+		Learning rate = 1.250000e-04
+	Processing validation set...
+		Validation Accuracy = 61.52% [35109 right out of 57070 samples]
+		Batch count = 192
+hmm84 MFC_E_D_A_Z_Flatstart20
+Epoch 12 ******************************
+	Processing training set...
+		Train Accuracy = 71.35% [761817 right out of 1067753 samples]
+		Batch count = 1335, Update count = 1335
+		Learning rate = 1.250000e-04
+	Processing validation set...
+		Validation Accuracy = 62.10% [35438 right out of 57070 samples]
+		Batch count = 192

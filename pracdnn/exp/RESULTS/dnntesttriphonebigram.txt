@@ -1,0 +1,1344 @@
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.45, Acc=68.56 [H=5475, D=703, S=1176, I=433, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.49, Acc=68.36 [H=5478, D=675, S=1201, I=451, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.34, Acc=68.43 [H=5467, D=691, S=1196, I=435, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.51, Acc=69.54 [H=5553, D=657, S=1144, I=439, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD 0 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -4 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=73.67, Acc=67.56 [H=5418, D=707, S=1229, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 400 -CORETEST -INSWORD -8 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.72, Acc=68.86 [H=5495, D=649, S=1210, I=431, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD 0 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -4 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=74.80, Acc=68.68 [H=5501, D=684, S=1169, I=450, N=7354]
+===================================================================
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 7 -N 650 -CORETEST -INSWORD -8 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=75.32, Acc=69.08 [H=5539, D=670, S=1145, I=459, N=7354]
+===================================================================

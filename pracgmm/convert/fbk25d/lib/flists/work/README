@@ -1,0 +1,12 @@
+python lib/flists/work/TIMITwav2hcopy.py lib/flists/work/train.all.wav.scp /home/dawna/cz277/MLSALT2/TIMIT/data/fbk25d fbk lib/flists/work/train.all.hcopy.scp
+python lib/flists/work/TIMITwav2hcopy.py lib/flists/work/test.all.wav.scp /home/dawna/cz277/MLSALT2/TIMIT/data/fbk25d fbk lib/flists/work/test.all.hcopy.scp
+
+cat convert/fbk25d/lib/flists/work/test.all.hcopy.scp | awk '{print $2}' > convert/fbk25d/lib/flists/work/test.all.scp
+cat convert/fbk25d/lib/flists/work/train.all.hcopy.scp | awk '{print $2}' > convert/fbk25d/lib/flists/work/train.all.scp
+
+python convert/fbk25d/lib/flists/work/AppendTime2ExtSCP.py convert/fbk25d/lib/flists/work/train.all.scp convert/fbk25d/lib/flists/work/train.all.time.scp
+python convert/fbk25d/lib/flists/work/AppendTime2ExtSCP.py convert/fbk25d/lib/flists/work/test.all.scp convert/fbk25d/lib/flists/work/test.all.time.scp
+
+python convert/fbk25d/lib/flists/fbk25d/work/GenTIMITextSCP.py convert/fbk25d/lib/flists/work/test.all.time.scp convert/fbk25d/lib/flists/work/test.all.ext.scp
+python convert/fbk25d/lib/flists/fbk25d/work/GenTIMITextSCP.py convert/fbk25d/lib/flists/work/train.all.time.scp convert/fbk25d/lib/flists/work/train.all.ext.scp
+

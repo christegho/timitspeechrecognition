@@ -1,0 +1,9 @@
+HLEd -A -D -V -T 1 -G TIMIT -i lib/mlabs/work/test.src.mlf lib/edfiles/phone.led /data/ldc/LDC93S1/TIMIT/TEST/*/*/*.PHN > lib/mlabs/work/LOG.test
+HLEd -A -D -V -T 1 -G TIMIT -i lib/mlabs/work/train.src.mlf lib/edfiles/phone.led /data/ldc/LDC93S1/TIMIT/TRAIN/*/*/*.PHN > lib/mlabs/work/LOG.train
+
+python lib/mlabs/work/GenTIMITextMLF.py lib/mlabs/work/test.src.mlf lib/flists/work/test.all.ext.scp 100000 lib/mlabs/test.mlf lib/mlabs/work/test.phn.lst
+python lib/mlabs/work/GenTIMITextMLF.py lib/mlabs/work/train.src.mlf lib/flists/work/train.all.ext.scp 100000 lib/mlabs/train.mlf lib/mlabs/work/train.phn.lst
+
+
+manually modify dr7_mbbr0_si1055_000_446
+

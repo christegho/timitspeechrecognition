@@ -1,0 +1,21 @@
+../../tools/htkbin/HParse -A -D -V -T 1 lib/wdnets/work/phoneloop.grm lib/wdnets/phoneloop.net 
+
+No HTK Configuration Parameters Set
+
+
+HTK Version Information
+Module     Version    Who    Date      : CVS Info
+HParse     3.5.0      CUED   12/10/15  : $Id: HParse.c,v 1.1.1.1 2006/10/11 09:55:01 jal58 Exp $
+HShell     3.5.0      CUED   12/10/15  : $Id: HShell.c,v 1.2 2015/10/12 12:07:24 cz277 Exp $
+HMem       3.5.0      CUED   12/10/15  : $Id: HMem.c,v 1.2 2015/10/12 12:07:24 cz277 Exp $
+HLabel     3.5.0      CUED   12/10/15  : $Id: HLabel.c,v 1.2 2015/10/12 12:07:24 cz277 Exp $
+HMath      3.5.0      CUED   12/10/15  : $Id: HMath.c,v 1.2 2015/10/12 12:07:24 cz277 Exp $
+HDict      3.5.0      CUED   12/10/15  : $Id: HDict.c,v 1.1.1.1 2006/10/11 09:54:57 jal58 Exp $
+HNet       3.5.0      CUED   12/10/15  : $Id: HNet.c,v 1.2 2015/10/12 12:07:24 cz277 Exp $
+
+Creating HParse net from file lib/wdnets/work/phoneloop.grm
+Generating Lattice with 53 nodes and 147 links
+Writing Word Lattice to lib/wdnets/phoneloop.net
+
+No HTK Configuration Parameters Set
+

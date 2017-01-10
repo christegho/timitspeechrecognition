@@ -1,0 +1,32 @@
+Epoch 12 ******************************
+	Processing training set...
+		Train Accuracy = 59.08% [630880 right out of 1067753 samples]
+		Batch count = 1335, Update count = 1335
+		Learning rate = 1.250000e-04
+	Processing validation set...
+		Validation Accuracy = 50.28% [28696 right out of 57070 samples]
+		Batch count = 192
+Epoch 12 ******************************
+	Processing training set...
+		Train Accuracy = 63.89% [682165 right out of 1067753 samples]
+		Batch count = 1335, Update count = 1335
+		Learning rate = 1.250000e-04
+	Processing validation set...
+		Validation Accuracy = 51.53% [29410 right out of 57070 samples]
+		Batch count = 192
+Epoch 12 ******************************
+	Processing training set...
+		Train Accuracy = 60.54% [646471 right out of 1067753 samples]
+		Batch count = 1335, Update count = 1335
+		Learning rate = 2.500000e-04
+	Processing validation set...
+		Validation Accuracy = 49.85% [28451 right out of 57070 samples]
+		Batch count = 192
+Epoch 12 ******************************
+	Processing training set...
+		Train Accuracy = 64.10% [684387 right out of 1067753 samples]
+		Batch count = 1335, Update count = 1335
+		Learning rate = 1.250000e-04
+	Processing validation set...
+		Validation Accuracy = 51.24% [29240 right out of 57070 samples]
+		Batch count = 192

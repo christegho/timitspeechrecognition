@@ -1,0 +1,9 @@
+#!/bin/zsh
+
+
+# Create a phone-level back-off bigram language model
+# -t Set the threshold count for including a bigram in a backed-off bigram language model.
+../tools/htkbin/HLStats -A -D -T 1 -b back_off_bigram -t 3 -u 1.0 -o phone-list.txt ../convert/mfc13d/lib/mlabs/train.mlf 
+
+# Build a bigram network
+../tools/htkbin/HBuild -A -D -T 1 -s '!ENTER' '!EXIT' -n back_off_bigram phone-list.txt bigram_lm_lattice

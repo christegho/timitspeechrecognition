@@ -1,0 +1,7 @@
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 11 -N 500
+SENT: %Correct=0.43 [H=5, S=1163, N=1168]
+WORD: %Corr=85.86, Acc=82.17 [H=39062, D=1858, S=4575, I=1678, N=45495]
+===================================================================
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 9 -N 500
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 7 -N 500
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 9 -N 500

@@ -1,0 +1,11 @@
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 400
+hmm84 FBK_D_A_Z_Init20 -CS 4 -H 5 -N 400
+hmm84 MFC_E_D_A_Z_Init20 -CS 4 -H 5 -N 650
+Epoch 12 ******************************
+	Processing training set...
+		Train Accuracy = 71.90% [767679 right out of 1067753 samples]
+		Batch count = 1335, Update count = 1335
+		Learning rate = 2.500000e-04
+	Processing validation set...
+		Validation Accuracy = 60.95% [34783 right out of 57070 samples]
+		Batch count = 192

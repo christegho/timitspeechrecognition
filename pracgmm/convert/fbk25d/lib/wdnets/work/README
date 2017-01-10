@@ -1,0 +1,3 @@
+python lib/wdnets/work/GenWdNetFromList.py lib/mlists/mono+sil.mlist lib/wdnets/work/phoneloop.grm
+HParse lib/wdnets/work/phoneloop.grm lib/wdnets/phoneloop.net
+

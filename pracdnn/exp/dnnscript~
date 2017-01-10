@@ -1,0 +1,13 @@
+../tools/steps/step-align $PWD/MFC_E_D_A_Z_Flatstart20/mono hmm84 \ MFC_E_D_A_Z_Flatstart20/align-mono-hmm84
+
+MFC_E_D_A_Z_Flatstart20
+for file in MFC_E_D_A_Z_Init20  FBK_D_A_Z_Init20 FBK_D_A_Z_Flatstart20
+do
+	../tools/steps/step-align $PWD/$file/mono hmm84 \ $file/align-mono-hmm84
+done
+
+
+for file in MFC_E_D_A_Z_Init20  FBK_D_A_Z_Init20 FBK_D_A_Z_Flatstart20 MFC_E_D_A_Z_Flatstart20
+do
+	../tools/steps/step-align $PWD/$file/mono hmm164 \ $file/align-mono-hmm164
+done
