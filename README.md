@@ -8,4 +8,6 @@ The project involves training and testing HMMs for the TIMIT corpus and examinin
 
 All training and testing uses the HTK HMM toolkit. A set of private scripts are provided by the Engineering Department, University of Cambridge to help run the experiments.
 
+Full Report: https://github.com/christegho/timitspeechrecognition/blob/master/ASR-HTK.pdf
+
 This repository is used to store all additional files, scripts, and results needed to complete the project.
